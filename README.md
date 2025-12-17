@@ -65,6 +65,8 @@ You can also right click an image to show the raw image itself. In this display,
 </div>
 <h3>Languages / Translations</h3>
 Currently, the plugin only supports English, Japanese, and Korean.
+<h1>Limitations</h1>
+Due to this being a near direct reupload of furyutei's original extension, this extension does not support the downloading of videos, GIFs, or user icons. This will change in the future if I have enough time to spare. For now, please do not expect this to come anytime soon.
 <h1>Credits</h1>
 <ul>
   <li><a href="http://furyu.hatenablog.com/">furyutei</a> - Original Extension Author</li>
