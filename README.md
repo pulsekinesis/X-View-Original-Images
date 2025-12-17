@@ -68,7 +68,7 @@ Currently, the plugin only supports English, Japanese, and Korean.
 <h1>Limitations</h1>
 Due to this being a near direct reupload of furyutei's original extension, this extension does not support the downloading of videos, GIFs, or user icons. This will change in the future if I have enough time to spare. For now, please do not expect this to come anytime soon.
 <br/><br/>
-It is recommended that you use <a href='cobalt.tools'>cobalt.tools</a> to download videos or GIFs of posts.
+It is recommended that you use <a href='https://cobalt.tools'>cobalt.tools</a> to download videos or GIFs of posts.
 <h1>Credits</h1>
 <ul>
   <li><a href="http://furyu.hatenablog.com/">furyutei</a> - Original Extension Author</li>
