@@ -9,8 +9,8 @@
 </div>
 X View Original Images is an extension that allows you to open & download the original source image of a given X post. There is also a script to assist with image downloads (converting downloaded extensions from '~.jpg-orig' to '~-orig.jpg', etc.).
 <h1>Installation Guide</h1>
-<h3>Chrome Webstore</h3>
-<s>In the environment of Google Chrome, Vivaldi, Opera, or any Chromium-based browser, you can download the extension from the official webpage here.</s> The extension has not been uploaded to the Chromestore yet.
+<h3>Chrome Web Store</h3>
+<s>In the environment of Google Chrome, Vivaldi, Opera, or any Chromium-based browser, you can download the extension from the official webpage here.</s> The extension has not been uploaded to the Chrome Web Store yet.
 <h3>Google Chrome / Chromium Unpack</h3>
 <ol>
   <li>Download the Github repository.
