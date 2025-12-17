@@ -260,7 +260,7 @@ switch ( LANGUAGE ) {
         OPTIONS.TITLE_PREFIX = 'IMG: ';
         OPTIONS.TWEET_LINK_TEXT = 'Tweet';
         OPTIONS.CLOSE_TEXT = 'Close [Esc]';
-        OPTIONS.BUTTON_TEXT = 'Display';
+        OPTIONS.BUTTON_TEXT = 'Display Original';
         OPTIONS.BUTTON_HELP_DISPLAY_ALL_IN_ONE_PAGE = 'Display all in one page';
         OPTIONS.BUTTON_HELP_DISPLAY_ONE_PER_PAGE = 'Display one image per page';
         OPTIONS.DOWNLOAD_HELPER_BUTTON_TEXT = 'Download';
